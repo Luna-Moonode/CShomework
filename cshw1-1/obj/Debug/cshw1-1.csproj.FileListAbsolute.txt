@@ -1,6 +1,0 @@
-/Users/apple/Desktop/cshw1-1/bin/Debug/cshw1_1.exe
-/Users/apple/Desktop/cshw1-1/bin/Debug/cshw1_1.pdb
-/Users/apple/Desktop/cshw1-1/obj/Debug/cshw1-1.csprojAssemblyReference.cache
-/Users/apple/Desktop/cshw1-1/obj/Debug/cshw1-1.csproj.CoreCompileInputs.cache
-/Users/apple/Desktop/cshw1-1/obj/Debug/cshw1_1.exe
-/Users/apple/Desktop/cshw1-1/obj/Debug/cshw1_1.pdb
