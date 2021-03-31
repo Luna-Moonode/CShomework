@@ -1,0 +1,6 @@
+/Users/apple/Desktop/cshw3/bin/Debug/cshw3.exe
+/Users/apple/Desktop/cshw3/bin/Debug/cshw3.pdb
+/Users/apple/Desktop/cshw3/obj/Debug/cshw3.csprojAssemblyReference.cache
+/Users/apple/Desktop/cshw3/obj/Debug/cshw3.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/cshw3/obj/Debug/cshw3.exe
+/Users/apple/Desktop/cshw3/obj/Debug/cshw3.pdb
